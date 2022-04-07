@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>12345678</string>
+			<string>nice2cu2</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,9 +32,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.6.242</string>
+			<string>192.168.1.20</string>
 			<key>ProxyServerPort</key>
-			<integer>7890</integer>
+			<integer>1280</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>mytest</string>
+	<string>音乐基站</string>
 	<key>PayloadIdentifier</key>
 	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
 	<key>PayloadRemovalDisallowed</key>
